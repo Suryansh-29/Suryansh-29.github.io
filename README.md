@@ -45,5 +45,14 @@ I am Suryansh Humane. I am From Bhilai,Chattishgarh ,Currently I am pursuing my 
  ______
 
 
+#  Hobbies and Interest
+
+* Playing Cricket
+* playing Chess
+* Listening Music
+* Exercise
+* Swimming
+* Travelling
+
 
 
