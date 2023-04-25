@@ -15,7 +15,7 @@ I am Suryansh Humane. I am From Bhilai,Chattishgarh ,Currently I am pursuing my 
 |Academic Year| Qualification  | School Name   |
 |:-----------:|:--------------:|:-------------:|
 |2010 - 2017  | I - VIII       | MGM Senior Secondary School|
-|2018 - 2019  | IX - XII       | Delhi Public School|
+|2018 - 2021  | IX - XII       | Delhi Public School|
 
 
 -------
