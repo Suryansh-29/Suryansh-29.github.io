@@ -20,4 +20,30 @@ I am Suryansh Humane. I am From Bhilai,Chattishgarh ,Currently I am pursuing my 
 
 -------
 
+# Course @IIT Goa 
+
+1. Electrical Enginnering
+    * Course Code : **EE101**
+    * Instructor name :- *Apeksha Madhukar*
+    
+1. Computer Science
+    * Course Code : **CS102**
+    * Instructor name :- *Clint P. George*
+    
+1. Physics
+    * Course Code : **PH102**
+    * Instructor name :- *Vaibhav Wasnik*
+
+1. Biology
+    * Course Code : **BIO101**
+    * Instructor name :- *Sreenath Balakrishna*
+  
+1. Mathematics
+    * Course Code : **MTH102**
+    * Instructor name :- *Kalpesh Haria*
+    
+ ______
+
+
+
 
